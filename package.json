@@ -1,0 +1,10 @@
+{
+  "name": "@types/koa-socket-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/koa": "^2.0.46",
+    "@types/socket.io": "^2.1.2"
+  }
+}
